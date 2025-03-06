@@ -1,3 +1,5 @@
+# Zomato-Prediction-App
+
 🍽️ Zomato Prediction App
 A Machine Learning-powered web application to predict restaurant ratings, customer preferences, and analyze food trends using Zomato data. 
 
@@ -74,5 +76,3 @@ The trained models are saved using joblib for quick deployment & inference.
 pip install -r requirements.txt
 ❌ Streamlit App Not Deploying on Cloud
 🔹 Solution: Ensure your requirements.txt is updated and includes all dependencies.
-
-# Zomato-Prediction-App
